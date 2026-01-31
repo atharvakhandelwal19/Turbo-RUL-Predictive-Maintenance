@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: TurboFan-Engine-RUL
+Version: 0.0.1
+Summary: Deep Learning Framework for Predictive Maintenance of Aircraft Turbofan Engines
+Author: Atharva
+Author-email: atharvakhandelwal19@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: torch
+Requires-Dist: tqdm
+Requires-Dist: optuna
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
